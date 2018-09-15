@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MAHCA</string>
+    <string name="bottext"> MAHCA is a medical calculator that gives you easy access to complicated medical formulas, scores, scales and classifications used for the diagnosis
+    of chronickidney disease.</string>
+    <string name="bottext1">The cockcroft-gault formula is used in the analysis of the predictive performance of renal function for a chronic kidney Disease population with normal serum creatinine levels</string>
+    <string name="bottext2">The MDRD formula does not require a body weight variable because it normalizes GFR for a standard body surface area of 1.73 M2 and has been demonstrated to be useful for chronic kidney
+    disease patients and performs similar in diabetic vs. Non diabetic individuals </string>
+    <string name="bottext3">Dialysis adequacy is the volume of fluid cleared of urea during every single treatment (represented as KT/V). The normal dialysis adequacy ( KT/V ) >= 1.2. Clearance should be done after every 3 months. </string>
+    <string name="button1text">Calculate</string>
+    <string name="hint1" translatable="true">enter value in MG/DL</string>
+    <string name="milminhint" translatable="true">value in ml/min</string>
+    <string name="Creatinine">Creatinine</string>
+    <string name="AGE">Age</string>
+    <string name="WEIGHT">Weight</string>
+    <string name="SEX">Sex</string>
+    <string name="semicolon">:</string>
+    <string name="Serum">Serum Creatinine</string>
+    <string name="years">Yrs</string>
+    <string name="Kilos">Kgs</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="k">Clearance</string>
+    <string name="T">Time</string>
+    <string name="V">V</string>
+    <string name="time">Min</string>
+    <string name="milmin">ml/min</string>
+    <string name="mgdl">Mg/dl</string>
+    <string name="gfr">GFR</string>
+    <string name="RacePrompts"> Choose a race</string>
+    <string name="Race">Race</string>
+    <string name="dialade">Dialysis Adequacy</string>
+    <string name="mail">Mail Result</string>
+
+
+    <string-array name="Race">
+        <item>Nigerian</item>
+        <item>African American</item>
+    </string-array>
+
+</resources>
